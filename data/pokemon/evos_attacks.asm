@@ -6519,6 +6519,14 @@ AnnihilapeEvosAttacks:
 	db 48, GUNK_SHOT ; Stomping Tantrum → HGSS tutor move
 	db 53, OUTRAGE
 	db -1 ; no more level-up moves
+	
+NejiroEvosAttacks:
+	db -1 ; no more Evolutions
+	db 1, SLASH ; "Claw"
+	db 1, FLY ; "Flight"
+	db 1, HI_JUMP_KICK ; "High Kick"
+	db 1, SEED_BOMB ; "Machine Gun"
+	db -1 ; no more level-up moves
 
 EggEvosAttacks::
 	db -1 ; no more evolutions

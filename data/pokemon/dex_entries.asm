@@ -3336,3 +3336,13 @@ TaurosPaldeanWaterPokedexEntry::
 	page "horns. Its high"
 	next "body fat allows it"
 	next "to float easily.@"
+
+SECTION "NejiroPokedexEntry", ROMX
+NejiroPokedexEntry::
+	db "Denjuu@"
+	db   "This fantastical"
+	next "creature came to"
+	next "this world via a"
+	page "portal linked to"
+	next "cell phones. It"
+	next "is quite strong.@"

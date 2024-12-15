@@ -1552,3 +1552,7 @@ TaurosPaldeanFireBackpic:  INCBIN "gfx/pokemon/tauros_paldean_fire/back.2bpp.lz"
 SECTION "TaurosPaldeanWater Pics", ROMX
 TaurosPaldeanWaterFrontpic: INCBIN "gfx/pokemon/tauros_paldean_water/front.animated.2bpp.lz"
 TaurosPaldeanWaterBackpic:  INCBIN "gfx/pokemon/tauros_paldean_water/back.2bpp.lz"
+
+SECTION "Nejiro Pics", ROMX
+NejiroFrontpic: INCBIN "gfx/pokemon/nejiro/front.animated.2bpp.lz"
+NejiroBackpic:  INCBIN "gfx/pokemon/nejiro/back.2bpp.lz"

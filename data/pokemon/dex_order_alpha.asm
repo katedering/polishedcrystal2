@@ -165,6 +165,7 @@ AlphabeticalPokedexOrder:
 	dp MUNCHLAX
 	dp MURKROW
 	dp NATU
+	dp NEJIRO
 	dp NIDOKING
 	dp NIDOQUEEN
 	dp NIDORAN_F

@@ -1811,3 +1811,8 @@ SECTION "TaurosPaldeanWater Mini Icon", ROMX
 TaurosPaldeanWaterMini::     INCBIN "gfx/minis/tauros_paldean_water.2bpp.lz"
 TaurosPaldeanWaterMiniMask:: INCBIN "gfx/minis/tauros_paldean_water_mask.1bpp.lz"
 TaurosPaldeanWaterIcon::     INCBIN "gfx/icons/tauros_paldean_water.2bpp.lz"
+
+SECTION "Nejiro Mini Icon", ROMX
+NejiroMini::     INCBIN "gfx/minis/nejiro.2bpp.lz"
+NejiroMiniMask:: INCBIN "gfx/minis/nejiro_mask.1bpp.lz"
+NejiroIcon::     INCBIN "gfx/icons/nejiro.2bpp.lz"

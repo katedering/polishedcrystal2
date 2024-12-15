@@ -297,4 +297,5 @@ PokemonCries::
 	mon_cry CRY_GIRAFARIG,   $041,  $200 ; Farigiraf
 	mon_cry CRY_WOOPER,     -$0c6,  $140 ; Clodsire
 	mon_cry CRY_NIDOQUEEN,   $0af,  $0c0 ; Annihilape
+	mon_cry CRY_TYPHLOSION,  $200,  $17f ; Nejiro (We're just making something up here, change it if you don't like how it sounds.)
 	assert_table_length NUM_SPECIES

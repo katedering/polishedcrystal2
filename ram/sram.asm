@@ -24,7 +24,7 @@ sGameDataEnd::
 
 sOptions3:: db
 
-	ds 393 ; unused
+	ds 391 ; unused ; this changes by a seemingly arbitrary amount when you add a new species or variant form. play around with it to get past the "value has shifted" errors
 
 sChecksum:: dw
 
@@ -50,7 +50,7 @@ sBackupGameDataEnd::
 
 sBackupOptions3:: db
 
-	ds 393 ; unused
+	ds 391 ; unused ; same here for compatibility
 
 sBackupChecksum:: dw
 

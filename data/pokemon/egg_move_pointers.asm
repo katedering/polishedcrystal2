@@ -291,6 +291,7 @@ EggMovePointers::
 	dw GirafarigEggMoves         ; Farigiraf
 	dw WooperPaldeanEggMoves     ; Clodsire
 	dw MankeyEggMoves            ; Annihilape
+	dw NoEggMoves                ; Nejiro
 	assert_table_length NUM_SPECIES
 
 	dw NoEggMoves                ; Gyarados (Red Form)
